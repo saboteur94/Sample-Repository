@@ -1,0 +1,3 @@
+Some content of file 2.
+
+Some new content.
